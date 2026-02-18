@@ -33,6 +33,9 @@ ninja.data = [{
         },{id: "news-submissions-for-the-eurips2025-workshop-on-principles-of-generative-modelling-are-open",
           title: 'Submissions for the EurIPS2025 workshop on Principles of Generative Modelling are open!',
           description: "",
+          section: "News",},{id: "news-i-ll-give-a-frontier-lecture-on-analytical-approaches-to-language-acquisition-at-the-2026-school-on-analytical-connectionism-chalmers-applications-are-now-open",
+          title: 'I’ll give a Frontier Lecture on analytical approaches to language acquisition at the...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
