@@ -36,6 +36,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-ll-give-a-frontier-lecture-on-analytical-approaches-to-language-acquisition-at-the-2026-school-on-analytical-connectionism-chalmers-applications-are-now-open",
           title: 'I’ll give a Frontier Lecture on analytical approaches to language acquisition at the...',
           description: "",
+          section: "News",},{id: "news-our-pre-paper-on-scaling-laws-and-representation-learning-in-hierarchical-languages-is-featured-in-a-viewpoint-article-in-physics",
+          title: 'Our PRE paper on scaling laws and representation learning in hierarchical languages is...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
