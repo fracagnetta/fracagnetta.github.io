@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://datascience.sissa.it/'>Theoretical and Scientific Data Science Group</a> at SISSA.
+subtitle: Research Scientist at <a href='https://www.simplexaisafety.com/'>Simplex</a>.
 
 profile:
   align: right
@@ -25,8 +25,8 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Marie Skłodowska-Curie Fellow specialising in theoretical deep learning. My research focuses on the interaction between the layered architecture of deep learning models and the hierarchical structure of natural data, such as images and text. I am also interested in how this hierarchical structure influences data statistics and the effectiveness of learning algorithms.
+I am a research scientist at [Simplex](https://www.simplexaisafety.com/), working to build a scientific understanding of (artificial) intelligence. My research characterises how deep learning methods acquire and represent the latent hierarchical and compositional structure of natural data. I use toy models to isolate these phenomena and turn them into quantitative predictions about real-world systems, an approach that recently led to [the first theory of neural scaling laws that applies to modern LLMs trained on real data](https://arxiv.org/abs/2602.07488).
 
-I hold a PhD in nonequilibrium statistical mechanics from the University of Edinburgh, where I worked with Martin R. Evans and Davide Marenduzzo on developing theoretical models of the fluctuations of biological interfaces such as the cell membranes. I then joined Matthieu Wyart's lab at EPFL, where we investigated the relationship between data structure and the sample complexity of deep learning methods.
+Before joining Simplex, I was a Marie Skłodowska-Curie Fellow at SISSA and a postdoc in Matthieu Wyart's lab at EPFL. I hold a PhD in statistical physics from the University of Edinburgh, and I am an affiliate researcher of the Simons Collaboration on the Physics of Learning and Neural Computation.
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->

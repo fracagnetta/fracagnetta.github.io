@@ -6,10 +6,10 @@
     "languages": "English, Italian (native), French",
     "summary": "Working at a principled theory of deep representation learning, with a focus on the latent compositional structure of natural data such as language",
     "location": {
-      "address": "Via Bonomea 265",
-      "postalCode": "TS 34136",
-      "city": "Trieste",
-      "countryCode": "Italy"
+      "address": "25 Holywell Row",
+      "postalCode": "EC2A 4XE",
+      "city": "London",
+      "countryCode": "UK"
     },
     "profiles": [
       {
@@ -21,11 +21,25 @@
   },
   "work": [
     {
+      "name": "Simplex",
+      "location": "London, UK",
+      "position": "Research Scientist",
+      "url": "https://www.simplexaisafety.com/",
+      "startDate": "2026-06-01",
+      "endDate": "Present"
+    },
+    {
+      "name": "Simons Collaboration on the Physics of Learning and Neural Computation",
+      "position": "Affiliate Researcher",
+      "startDate": "2025-11-01",
+      "endDate": "Present"
+    },
+    {
       "name": "Scuola Internazionale Superiore di Studi Avanzati (SISSA)",
       "location": "Trieste, Italy",
       "position": "Marie Skłodowska-Curie Fellow",
       "startDate": "2024-10-01",
-      "endDate": "Present"
+      "endDate": "2026-06-30"
     },
     {
       "name": "École polytechnique fédérale de Lausanne (EPFL)",
