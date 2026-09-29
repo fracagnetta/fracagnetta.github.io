@@ -39,6 +39,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-pre-paper-on-scaling-laws-and-representation-learning-in-hierarchical-languages-is-featured-in-a-viewpoint-article-in-physics",
           title: 'Our PRE paper on scaling laws and representation learning in hierarchical languages is...',
           description: "",
+          section: "News",},{id: "news-i-ve-joined-simplex-as-a-research-scientist-in-london-our-goal-building-a-science-of-intelligence",
+          title: 'I’ve joined Simplex as a Research Scientist in London. Our goal: building a...',
+          description: "",
+          section: "News",},{id: "news-submissions-for-the-neurips2026-workshop-on-principles-of-generative-modelling-are-open",
+          title: 'Submissions for the NeurIPS2026 workshop on Principles of Generative Modelling are open!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
